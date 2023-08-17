@@ -36,9 +36,4 @@ RUN draw_plot.ipynb
 
 ### About DAGMM model
 [[Paper](https://bzong.github.io/doc/iclr18-dagmm.pdf)] Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection (ICLR,2018)
-
-[[Youtube Review](https://youtu.be/byvMpGsl7cE)] 발표자: 고려대학교 산업경영공학과 DSBA 연구실 이윤승(https://github.com/yun-ss97)
-
-
-
 Reference: [[code]](https://github.com/lixiangwang/DAGMM-pytorch)
